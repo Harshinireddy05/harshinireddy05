@@ -67,7 +67,7 @@ I'm always excited to collaborate on interesting projects and discuss new opport
 
 <div align="center">
   
-[![LinkedIn](https://www.linkedin.com/in/harshini-reddy-nellore/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-reddy-nellore/)
 
 </div>
 
